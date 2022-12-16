@@ -1,1 +1,2 @@
-# Typescript-Quiz
+# React-TypeScript-Simple-Quiz-App
+ 
